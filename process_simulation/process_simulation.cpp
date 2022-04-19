@@ -5,7 +5,8 @@
 int main()
 {
     int x=0;
-    std::cout << "Hello World!\n";
+    int y=1;
+    std::cout << "Hello World!\n"<<y;
     std::cin>>x;
     return 0;
 }
